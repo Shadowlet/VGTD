@@ -1,0 +1,147 @@
+CHAPTER 2 EXERCISES
+
+
+1)
+
+Market-Driven: No Man's Sky.
+	Had a huge marketing campaign which tried to bring in more players,
+however they got ahead of themselves and advertised soem features which
+were not present in the game at launch. Fans were disappointed.
+
+Designer-Driven: Darkest Dungeon
+	The devs wanted to create a punishing and brutal game with a hard
+difficulty level. Some roguelike fans found the difficulty and grind to
+be a lot...
+
+License-Driven: Star-Wars Battlefront
+	DICE didn't really use the Star-Wars IP as well as fans had hoped.
+Locking characters behind a badly design progression system as well
+as having a game formula similar to their Battlefield games was not
+well executed. Not enough fan favourites were included.
+
+
+Technology-Driven: 
+	COD games on the Wii had a unique control scheme using the Wii
+motion controls in order to aim and shoot enemies. However, the graphics
+were not up to par with the competitor console versions. The games were
+also not supported with DLC and updates after release which turns the 
+hardcore fans away.
+
+
+Art-Driven:
+	As much as the 10+ years the devs spent on the game, a lot of the time
+was put into the highly-detailed spritework. The game design and overall
+gameplay did not have the same amount of time and care put into it as fans
+had hoped..
+
+
+
+2a)
+
+SUPER MARIO BROS. 3
+
+Game Concept:
+	A 2-D platformer in which the character Mario is tasked with going through 
+many levels and killing enemies along the way in order to rescue his beloved
+princess.
+
+Technical Structure / Design:
+Avatar-Oriented Steering 
+
+	In this game Mario is able to build up speed unlike the previous iterations. 
+Instead of the usual walking and running, going fast allows you to also jump higher 
+and farther. There are a bunch ofitems that Mario can pick up which changes up his 
+controls and abilities like the Fire Flower and Raccoon Suit for example.
+	The HUD displays the current world, the current. score, how much time the player has left to complete 
+the level, how many coins the player has collected, the number of lives, the acceleration bar, and
+the player's inventory.
+
+
+Game System Design:
+	The player can tell Mario to run, walk, and jump. Other actions that use the same
+inputs are swimming and flying with the raccoon suit. Jumping on an enemy kills them,
+hitting a block from underneath breaks it if Mario has eating at least a Mushroom.
+
+Shell Menu Design:
+	The title menu only contains a One-Player or Two-Player option. When playing
+a level the palyer can press Start to pause the game and will resume when a button is pressed.
+When the palyer loses all of their lives, A menu will display asking to Continue or Quit
+the game.
+
+Player Interactions:
+	Mario 3 is an Avatar-based interaction model. The game perspective focuses on a side-angle
+view. The player has 4 directional movement inputs which allow Mario to move and duck.
+Two other buttons that the player has available are the run and jump buttons.
+
+Audio Design:
+	The game uses chiptune music for it's soundtrack and was composed by Koji Kondo which was
+released around 1988. When the player interacts with certain objects a sound effect will play.
+
+Target Audience:
+	Mostly kids and teens, but Mario has a target audience that can appeal to anyone. 
+
+Key Characters:
+	Mario
+	Luigi
+	Princess Toadstool
+	Bowser
+	The Eight Kings
+	Toad
+
+Hardware Platforms:
+	NES
+	Gameboy Advance
+
+Game World Design:
+	
+	Physical:
+		- Game levels are in a 2-D environments and the display is limited by the screen boundaries
+
+	Temporal:
+		- Game is run in real-time.
+
+	Environmental:
+		- The environmental design for the levels depends on the world the player is currently in.
+		- The world maps all lead to a castle which encompases a king who leads that certain world.
+		- The first world levels for example has a bunch of man-made blocks and wooden floors,
+		as well as a level which is entirely a grass-plane.
+
+	Emotional:
+		- The music creates a cheey mood in the main world level and during the boss battles, 
+		the tracks use an increased tempo.
+		- The colours used in each level is wonderful to look at and does not impose any unsafe feeling
+		- When a player sees they have a small amount of lives left they start to panic and try to
+		to be conservative with the remaining ones.
+
+	Ethical:
+		- The game level create an ethic that it is okay to kill mostly harmless creatures by stomping
+		on them.
+
+2b)
+	The level design had to teach the player certain mechanics and make sure the difficulty
+flows nicely and they progress.
+	Nintendo actively tries to make all of their games fun and less frustrating for players to continue
+if they happen to die.
+	The target demographic had to be focused on so that children would want to ask their parents to buy
+the game for them when Christmas comes around.
+
+
+2c)
+	Modern gamers would love if the game had a save & load feature or at least a checkpoint/continue option
+so that players won't have to start over from the very beginning.
+
+
+
+3)
+	BACON BITS
+Concept/Genre - Shoot Em' Up(ship fries the bacon off by shooting lazers at it)
+
+Technical Structure Design - Consists of player control (screen-oriented steering), interface for lives and points.
+Game System Design - Core Mechanics -> Challenge -> Perspective -> Output -> Player Input -> interaction -> action -> Repeat.
+Shell Menu Design - Play, Pause Button, Game Controls, & New Game
+Player Interaction - Shooting.
+Audio Design - Simple sound effects (laser effect) & background music that changes tempo as it gets closer to the character(nothing like space invaders).
+Target Audience - Casual gamer Everyone
+Key Characters - The Lazer Ship
+Hardware Platforms(s)- Mobile, & Arcade
+Game World Designs - 2D display,singlescreen.
