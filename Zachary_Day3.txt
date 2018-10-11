@@ -1,0 +1,91 @@
+CHAPTER 3 EXERCISES:
+
+1)
+
+Concept:
+	Physics 2-D Golf Game with Levels
+
+Story:
+	Around the Medival Times, a parent tasks their son with an errand that requires them
+to fetch some crystals in a newfound ruin. He only expected the errand to take the whole
+day but realizes his son hasn't returned yet.. The father travels to the ruins the next day to
+find his son. As he walks inside there is a magic golf club awaiting him in the first room.
+In his head he hears the words of the supposed Master of the ruins he was tresspassing.
+"If you want to find you son, you must first complete the challenges ahead with this magic
+golf club." it says. The father is determined to rescue his son from the mastermind and starts
+his quest.
+
+Non-Linear Story:
+	Around the Medival Times, a parent tasks their son with an errand that requires them
+to fetch some crystals in a newfound ruin. He only expected the errand to take the whole
+day but realizes his son hasn't returned yet.. The father being the lazy and unappreciative 
+father figure he could be, he decides he can do something else instead. So now the father had to
+either choose to rescue his son or stay home.
+
+
+	CHOICE ONE:
+		The father travels to the ruins the next day to
+	find his son. As he walks inside there is a magic golf club awaiting him in the first room.
+	In his head he hears the words of the supposed Master of the ruins he was tresspassing.
+	"If you want to find you son, you must first complete the challenges ahead with this magic
+	golf club." it says. The father is determined to rescue his son from the mastermind and starts
+	his quest.
+
+	CHOICE TWO:
+		After making his descision to stay home, the master of the ruins who is keeping his son hostage
+	praises the father and rewards him with a magic golf club which can shoot any golf ball as far 
+	as the eye can see. The ruin master teleports him to a special golf course so that he could use this
+	golf club.
+
+
+2a)
+
+	Choice One:
+
+		If the player chooses to go rescue the son, they are tasked with completing a set of level which
+	are rigged with traps and frustrating obstacles since they are trespassing in the ruins.
+
+	Choice Two:
+
+		If the player chooses to play the other golf course if they don't go to rescue the son. They will
+	play through an easier golf course as if they are playing mini-golf. These levels do not have any
+	traps or obstacles inside and instead give the player fun levels that properly use the game's mechanics.
+
+
+	* Both choices have their own respective stories and endings.
+
+
+2b)
+
+	Choice One requires more strategy in order to complete the levels while Choice Two mostly requires no thought,
+		although the player will lose later on as the difficulty does indeed increase.
+	What I have thought of so far for the ruin level are timed spike traps and lava pits. Later on there will
+	be moving enemies that the player has to avoid touching or else the ball will explode.
+
+
+3) This is a 2-D golf game with downward's gravity, this means that the golf ball will stay on a floor or wall depending
+on the level. Like a platformer, the player has to steer the golf ball towards a goal in order to complete each level. There will be collectibles as the levels will pretty much play and look like a platformer. These sources aren't required to 
+beat the game and are entirely optional. There will be a limited amount of turns much like regular golf and requires the player to start over if they fail, losing all of their collectibles. No such converter will exist.
+
+
+4)		
+																		        LIVES: x 3
+																				COINS: x 0
+
+									   O
+									O     O 
+							
+|							 	  /			\		   /		\		
+|	()					O	O	 /			 \	  O	  /			 \O
+________________________________/			  \______/			  \O
+																   \O				  |\
+																    \O				  | \
+																     \O				  | /	
+																      \O			  || 	
+																       \_____________ ||
+
+
+This would be one of the first levels where the player is taught about ramps. After the first jump
+they see how going down a ramp works as well as the stop they encounter in the pit. The collectibles
+are just meant to be a guide that the player should follow and they can grab them without any effort.
+After the last jump they get some relief and slide down a long ramp with a lot of coins and roll into the hole.
