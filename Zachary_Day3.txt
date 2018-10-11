@@ -70,6 +70,8 @@ beat the game and are entirely optional. There will be a limited amount of turns
 
 4)		
 																		        LIVES: x 3
+
+																		        POINTS: 0000000
 																				COINS: x 0
 
 									   O
@@ -89,3 +91,12 @@ This would be one of the first levels where the player is taught about ramps. Af
 they see how going down a ramp works as well as the stop they encounter in the pit. The collectibles
 are just meant to be a guide that the player should follow and they can grab them without any effort.
 After the last jump they get some relief and slide down a long ramp with a lot of coins and roll into the hole.
+
+Choice one will consist of linear layouts while the other choice will use parallel layouts.
+The ruin levels will consist of blue and black colour pallets for the background and walls while the golf ball
+will be white and the collectible coins will be gold-yellow. The objects in the level should contrast from the 
+background and walls.
+
+Choice two will have more greenish bluish backgrounds and walls and give you more exploration in the levels instead
+of a straight path like above. There will be collectibles scattered all around the levels and the game rewards you with
+more points if you happen to collect all of them in a level.
