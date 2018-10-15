@@ -1,0 +1,124 @@
+CHAPTER 6 EXERCISES:
+
+
+2a) 
+
+Catalyst Wars:
+
+* Too much explanation for the basics of the game
+
+* Not in a GDD format, its hard to follow since theres no table of contents or
+chapter numbers for each section either.
+
+* No target audience
+
+* Missing schedule and budget
+
+* Illustrations / Art Missing
+
+* No Control Schemes
+
+
+Flying:
+
+* Lacks story and character descriptions, meld them into
+game mechanics instead...
+
+* No Table of Contents
+
+* Typos
+
+* Why is there a Walkthrough...?
+
+* Descriptions are terrible, especially the object and story ones
+
+* Also lack specific names for characters
+
+
+
+2b)
+
+Claw:
+
+* Table of contents included, organization is key for easy readability
+
+* Includes elements added over the course of development. 
+
+* User controls being added shows that you have a good idea on the gameplay
+
+* Shows items and UI elements that will be in the game with illustrations for each one.
+
+* Levels are organized separately from each other and the enemies are nicely grouped with them.
+
+* States a target audience. Knowing who to market your game to is key to meet target sales.
+
+
+DOOM: 
+
+* Table of contents is included here too, organization helps to make the document easier 
+to read.
+
+* Story elements and others are grouped into their own respective Episodes / Levels
+Keeps sections concise and refrains from making a huge body of text for the whole story.
+
+* Character descriptions are detailed and provide enough information for the person reading.
+
+
+
+2c)
+
+Pole Position:
+
+* A basic gameplay description seems to have always been necessary for selling a game in a GDD.
+
+* Descriptions for all the game's different game systems still exists in this document.
+
+
+* A table of contents is missing from this document, although the document is way less lengthy
+than the modern ones and the inter-office memo takes up a majority of it.
+
+* Illustrations are missing
+
+* The target audience is missing
+
+* The story description is missing.
+
+* The document should include anything about the levels / map of the game.
+
+* Missing appendices.
+
+* Missing objects, items, and UI along with descriptions for them.
+
+* Missing controls.
+
+
+
+* Seems to include an inter-office memo at the end of the document that includes any problems the development
+and production teams had.
+
+* Game systems, modes, and hardware requirements seem to be the maximum of what should've been included in 
+a GDD at the game for both documents.
+
+
+Tempest:
+
+Same components
+
+* Provides an introduction to the game
+	- Description other the game
+	- Includes hardware requirements
+
+* The gameplay mechanics
+	- Table of contents
+	- Player controls
+	- Offers different modes
+	- Provide game stuctures (difficulty)
+	- User interface (options, point tracker, levels)
+
+Missing components
+	- Game Mechanics(object intreactions missing)
+	- Description (location, objects)
+	- Appendices
+	- Lacks images
+
+
