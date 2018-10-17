@@ -1,0 +1,19 @@
+CHAPTER 7 EXERCISES
+
+
+1)
+
+A TDD should have an introduction which explains the basis and concept of the game
+so any new project members could have an easier time 
+
+The TDD could perhaps include game assets, mechanics, and characters / items
+concepts or those that have already been worked on.
+
+
+4a)
+
+	The first is a Class Diagram. It's purpose is to create objects along with their
+inheritors and "items".
+
+	The second UML is an Activity Diagram. It's purpose is to control the flow of the 
+game system.
