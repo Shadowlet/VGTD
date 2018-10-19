@@ -1,0 +1,12 @@
+CHAPTER 8 EXERCISES:
+
+2)
+
+Considering Angry Birds is a simple physics based game, it would need to pass a verification test
+after the initial implementation to see if the gameplay is meeting standards. In this case the 
+Agile Development Model should be chosen over the Waterfall Model. The agile model compared to the 
+waterfall one can go back a step if the unit tests do not pass inspection or shareholders are not
+pleased. Agile development focuses on immediate design implementation as the costs of development
+also does not increase overtime throughout the project. An agile framework used in this method is 
+called SCRUM. Teams are 5-9 members and no more, remaining members are put into other teams which helps
+make communication and efficiency easier for a mobile game project like this.
