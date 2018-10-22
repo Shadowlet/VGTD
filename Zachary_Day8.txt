@@ -1,0 +1,118 @@
+CHAPTER 9 EXERCISES:
+
+1)
+
+The Google Play store doesn't really have any moderation or wait time for new
+publishers. In order to register as an Android Developer you need to create a google 
+account, agree to the Developer Distribution Agreement, and purchase the $25 Developer
+License in order to start publishing. To actually publish a game though you just have to
+fill out all the product detail, country distribution & pricing, and also generate your APK
+for the game.
+
+3a)
+
+All protective elements and materials relating to the product "Tour of Duty" is being transferred 
+to Activision Publishing Inc.
+
+
+3b)
+
+b.
+Development Contract:
+
+-Developers Responsibility  (MUST READ)
+-Development Aids and Other Assistance 
+-Development Team and Upadates
+-Delivery
+-Enhancements and Conversions
+-Sequels
+-Advance payment  (MUST READ)
+-Additional Advances  (MUST READ)
+-Term and Termination  (MUST READ)
+-Confedentiality  (MUST READ)
+
+Development Costs:
+-Deprec/month(this is the cost to developer per devkits)
+
+Schedule:
+
+* LOI Payments
+* Game Engine Selection
+* Contract Signing, prelim production schedule
+* Assessment Demo
+* TDD first pass and Cube/Xbox assessment demos
+* Prototype Final Design and Preproduction TBD
+* PS2 Prototype
+* Xbox/Cube Prototypes / Full Productino Schedule
+* Level Production 1 - 11
+* Alpha 
+* Beta 
+* 1st Party Submissions (all versions & languages)
+* Code Release
+* Payments required for moving to new space
+
+TOTAL COST: $8,500,000
+
+
+Key Employees:
+
+Erik Church - DESIGN LEAD
+Jonathan Gregerson - ART DIRECTOR
+Dave Prout - ART LEAD
+Sunil Thankamushy - ANIMATION DIRECTOR
+
+Adrian Jones - ENGINEERING DIRECTOR
+Ike Macoco - ENGINEER
+Scott Langteau - PRODUCER
+Craig Allen - GENERAL MANAGER
+
+
+Development Team for the First and Second Product: 
+
+* Design Team
+* Art Team
+* Animation / Character Team
+* Engineering
+* Tools Programmer
+* Audio
+* Production
+
+
+
+The team will need to be aware of the TDD and GDD sections of the contract as they show the minimum 
+requirements for the documents. The milestone schedule section states how to handle certain actions 
+regarding different stages of development and are very important. All team members should definitely
+look at the Development Contract as a whole as it highlights a lot of important information.
+
+
+
+3c)
+
+
+
+NDA 1:
+
+The recieving party may not reveal confidential information about the game the disclosing party (TSI)
+is publishing to the public. Both parties are business partners for the upcoming game disclosed.
+
+* The Disclosing Party must identify any confidential information to the Recieving Party within 
+20 days after oral disclosure.
+* Confidential information will be disclosed soley for the purpose of evaluating a publishing agreement
+for the game.
+* Recieving Party agrees to accept disclosure of the Confidential Information and to exercise the same degree
+of care to maintain the Confidential Information secret and confidential as is employed by Disclosing Party to 
+preseve and safeguard its own materials and confidential information
+* If either party determines not to proceed with evaluation of publishing the game, usch party shall advise the
+other party in writing and each party shall promptly return any Confidential Information of the other party.
+
+ 
+NDA 2:
+
+The purpose of this NDA is for Beta Testers of IV's game not to disclose any information about the game besides
+the fact that a beta test for Shadowgate is currently running.
+
+* Disclosee agrees to hold in confidence as proprietary any information disclosed to them by IV in the past for future
+unless such information is part of the public domain.
+* At the reqwest of IV, Disclosee must return any and all written and/or audio-visual materials and any other Proprietary
+Information delivered to the Disclosee for review.
+
