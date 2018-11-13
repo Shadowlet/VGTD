@@ -1,0 +1,59 @@
+CHAPTER 10 EXERCISES:
+
+1a)
+
+Low Impact.
+
+
+1b)
+
+Huge Impact.
+
+* Hire a graphics artist ASAP.
+
+1c)
+
+Big Impact.
+
+* 
+
+2)
+
+POKEMON BLUE
+
+
+What went wrong:
+
+* Lack of communication
+
+* Some team members absent for a big majority of the project. The leader left near the beginning..
+
+* Poor time management, lack of a proper schedule
+
+* Adapting to C++ PLUS SDL
+
+* World map code interfering with building code
+
+* Difficulties with team members combining code together
+
+* Unecessary reworking near the end of the project deadline
+
+
+What went right:
+
+* Battle system was functionable
+
+* Map transitions worked out great in the end
+
+* We created a pretty darn good name input screen in console
+
+
+What we can learn from the experience:
+
+* Learned how SDL worked, for the most part....
+
+* Managed time better than in the Mario project
+
+* Gained further knowledge and practical informaton in C++
+
+* Don't panic when your code suddenly fails with a new addition to your program   
